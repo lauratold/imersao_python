@@ -1,8 +1,8 @@
-📊 Imersão de Dados em Python
+Imersão de Dados em Python
 
 Projeto desenvolvido durante a Imersão de Dados em Python da Alura, com foco em análise e visualização de dados.
 
-🚀 Tecnologias utilizadas
+Tecnologias utilizadas
 
 Python
 
@@ -16,7 +16,7 @@ Plotly
 
 Streamlit
 
-📂 Sobre o projeto
+Sobre o projeto
 
 Este projeto tem como objetivo explorar dados de forma prática, aplicando conceitos de análise, visualização e criação de dashboards interativos.
 
